@@ -1,0 +1,4 @@
+baseURL = "http://urekakit.com/"
+languageCode = "en-us"
+title = "Play & learn with UrekaKit"
+theme = "ananke"
